@@ -77,7 +77,7 @@ export default function Home() {
       <div className="header">
         <h1>📄 Avaliador de Currículo com IA</h1>
         <p>
-          Simula um ATS e um recrutador para te dar feedback real — e adapta
+          Simula um ATS e um recrutador para te dar feedback real, além de adaptar
           seu currículo a uma vaga específica.
         </p>
       </div>
